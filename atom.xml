@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhongbo&#39;s Site</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-05-18T17:48:42.753Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Zhongbo Zhu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Home</title>
+    <link href="http://example.com/2022/05/19/home/"/>
+    <id>http://example.com/2022/05/19/home/</id>
+    <published>2022-05-18T17:45:52.000Z</published>
+    <updated>2022-05-18T17:48:42.753Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Hi, welcome to Zhongbo Zhu’s Webpage!</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Hi, welcome to Zhongbo Zhu’s Webpage!&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

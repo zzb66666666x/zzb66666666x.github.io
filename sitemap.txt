@@ -1,0 +1,5 @@
+http://example.com/About/index.html
+http://example.com/Projects/index.html
+http://example.com/Publications/index.html
+http://example.com/2022/05/19/home/
+http://example.com/
